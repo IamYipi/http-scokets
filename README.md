@@ -1,4 +1,4 @@
-# http-scokets
+# http-sockets
 Final Project Redes I
 
 # USAGE
