@@ -12,3 +12,7 @@ Para poder observar los logs, simplemente debe dirigirse a la carpeta bin, dentr
 Para eliminar el servidor y el cliente en la carpeta src donde se encuentra el make, ejecutar en un terminal el comando make stop.
 
 Para matar al cliente basta con pkill client.
+
+# DOCUMENTATION
+
+Para entender el funcionamiento del proyecto leer [sockets.pdf](sockets.pdf)
