@@ -1,7 +1,7 @@
 /*
 Fichero:server.h
-Javier García Pechero DNI 70906279Q
-Álvaro García Labrador DNI 70913088V
+Javier García Pechero
+Álvaro García Labrador
 */
 #ifndef __SERVER_H__
 #define __SERVER_H__
