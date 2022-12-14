@@ -1,7 +1,7 @@
 #
 #Fichero:MakeFile
-#Javier García Pechero DNI 70906279Q
-#Álvaro García Labrador DNI 70913088V
+#Javier García Pechero 
+#Álvaro García Labrador 
 #
 CC=gcc
 CFLAGS=-g -Wunused
