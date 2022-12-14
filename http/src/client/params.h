@@ -1,7 +1,7 @@
 /*
 Fichero:params.h
-Javier García Pechero DNI 70906279Q
-Álvaro García Labrador DNI 70913088V
+Javier García Pechero 
+Álvaro García Labrador 
 */
 #ifndef __PARAMS_H__
 #define __PARAMS_H__
